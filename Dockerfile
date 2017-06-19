@@ -14,5 +14,5 @@ RUN tar xvzf ucspi-tcp-0.88.tar.gz && \
     make && \
     make setup check
 
-ENTRYPOINT ["tcpserver"]
+ENTRYPOINT ["/tmp/entrypoint.sh"]
 CMD ["tcpserver"]
