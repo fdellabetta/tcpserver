@@ -1,8 +1,11 @@
 # dellabetta/tcpserver
-Alpine-based image with just tcpserver by D. J. Bernstein (https://cr.yp.to/ucspi-tcp/tcpserver.html)
-Inspired by https://github.com/appropriate/docker-nc
-Source code by D. J. Bernstein (https://cr.yp.to/ucspi-tcp/tcpserver.html)
-Patch by 
+Alpine-based image with just tcpserver by D. J. Bernstein (https://cr.yp.to/ucspi-tcp/tcpserver.html).
+
+Inspired by https://github.com/appropriate/docker-nc.
+
+Source code by D. J. Bernstein (https://cr.yp.to/ucspi-tcp/tcpserver.html).
+
+Patch by LFS (http://www.linuxfromscratch.org/patches/blfs/5.0/ucspi-tcp-0.88-errno.patch)
 
 ## Usage manual
 
